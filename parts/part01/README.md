@@ -1,3 +1,3 @@
-# [Книга про Blender]()
+# [Книга про Blender](/)
 
- [Пользовательский интерфейс](parts/part01/user_interface.md)
+ [Пользовательский интерфейс](user_interface.md)
